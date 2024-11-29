@@ -1,1 +1,4 @@
-End sem Lab Questions
+<p align = center>
+  End sem Lab Questions
+</p>
+
